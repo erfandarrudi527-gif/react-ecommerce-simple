@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "username": "ali",
+    "name": "علی",
+    "passwordHash": "90f28063c1efe57f580716808b972e50cdc9c949c5baf05f0ca398c2dbc04965"
+  },
+  {
+    "id": 2,
+    "username": "erfan",
+    "name": "عرفان درودی",
+    "passwordHash": "b3365af1eb25ec711b05fd3e6312b6ec126699e4ded0c67ba69d76f8091aaf4c"
+  }
+]

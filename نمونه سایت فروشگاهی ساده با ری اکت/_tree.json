@@ -1,0 +1,1033 @@
+{
+  "sha": "d03d27dff14e48fbb612dd070e55d26d99fcc79e",
+  "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/trees/d03d27dff14e48fbb612dd070e55d26d99fcc79e",
+  "tree": [
+    {
+      "path": ".dockerignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e49ceee74376483129391fcac4ee63b4b8192448",
+      "size": 64,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/e49ceee74376483129391fcac4ee63b4b8192448"
+    },
+    {
+      "path": ".env",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "783f542bf00a13ea6b3de32aba084fc775f09719",
+      "size": 184,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/783f542bf00a13ea6b3de32aba084fc775f09719"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f0a5a962af5f5dd3f9b396c99f9809fccc394b9f",
+      "size": 75,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/f0a5a962af5f5dd3f9b396c99f9809fccc394b9f"
+    },
+    {
+      "path": "Dockerfile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "025092779fd6c6ae53eee11adb90f01307668077",
+      "size": 127,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/025092779fd6c6ae53eee11adb90f01307668077"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0012a86c1e084e26b6d8c18b5d3352065801f9f7",
+      "size": 1080,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/0012a86c1e084e26b6d8c18b5d3352065801f9f7"
+    },
+    {
+      "path": "README.md",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e1ef3f95f09c00c1ecf7eb912e2eb1ef77f96d7e",
+      "size": 5600,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/e1ef3f95f09c00c1ecf7eb912e2eb1ef77f96d7e"
+    },
+    {
+      "path": "__test__",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3f930822d63f3b56a56127edd77802bd19aff051",
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/trees/3f930822d63f3b56a56127edd77802bd19aff051"
+    },
+    {
+      "path": "__test__/cart.spec.js",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6951f2b7a257bafa32ad4d09f6e907e95e286cd9",
+      "size": 3739,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/6951f2b7a257bafa32ad4d09f6e907e95e286cd9"
+    },
+    {
+      "path": "__test__/product.spec.js",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7ea2c065d76d89a68c088d321d5f51473f72c5de",
+      "size": 2822,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/7ea2c065d76d89a68c088d321d5f51473f72c5de"
+    },
+    {
+      "path": "__test__/user.spec.js",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4e7044b49cad58319d05e105ceb9ea64350214e0",
+      "size": 3623,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/4e7044b49cad58319d05e105ceb9ea64350214e0"
+    },
+    {
+      "path": "controller",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d25485d9647df22d2d2d27eace8529860af9e061",
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/trees/d25485d9647df22d2d2d27eace8529860af9e061"
+    },
+    {
+      "path": "controller/auth.js",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "15ecbfb38bae0b3594e39678d642eed3d98b5624",
+      "size": 563,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/15ecbfb38bae0b3594e39678d642eed3d98b5624"
+    },
+    {
+      "path": "controller/cart.js",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "847000989da5c45f506ba92bb7fe61e0a6051a60",
+      "size": 2497,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/847000989da5c45f506ba92bb7fe61e0a6051a60"
+    },
+    {
+      "path": "controller/home.js",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e49c9107b29e6248d2e5fc5be8c287a343d3d825",
+      "size": 144,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/e49c9107b29e6248d2e5fc5be8c287a343d3d825"
+    },
+    {
+      "path": "controller/product.js",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "699d97d6fa0b5263973b7ad954fcacf12a1c2d7a",
+      "size": 2516,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/699d97d6fa0b5263973b7ad954fcacf12a1c2d7a"
+    },
+    {
+      "path": "controller/user.js",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "891a8f943af10e16e126977087bb11efb64a10f0",
+      "size": 2629,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/891a8f943af10e16e126977087bb11efb64a10f0"
+    },
+    {
+      "path": "docker-compose.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f48a8cbf1b35620ce965483a630d313848625f07",
+      "size": 398,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/f48a8cbf1b35620ce965483a630d313848625f07"
+    },
+    {
+      "path": "jest.config.js",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "43b90c87d03156a3c22ce04a10f1ecb2e686d6b6",
+      "size": 51,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/43b90c87d03156a3c22ce04a10f1ecb2e686d6b6"
+    },
+    {
+      "path": "model",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1e22f3c08a78a960fcc218e33345822b967989c0",
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/trees/1e22f3c08a78a960fcc218e33345822b967989c0"
+    },
+    {
+      "path": "model/cart.js",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5ec50efadc67de5f802bc34e28c4b894089a3a91",
+      "size": 709,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/5ec50efadc67de5f802bc34e28c4b894089a3a91"
+    },
+    {
+      "path": "model/product.js",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8031f84383793b299d89ba1c1d7723af99fbd136",
+      "size": 409,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/8031f84383793b299d89ba1c1d7723af99fbd136"
+    },
+    {
+      "path": "model/user.js",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3b4e0b5fa0b8fd9251b992fa14f7f9c5fc0db82e",
+      "size": 795,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/3b4e0b5fa0b8fd9251b992fa14f7f9c5fc0db82e"
+    },
+    {
+      "path": "package.json",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "357277c4cb99baf105da7fb92911372d60f392e1",
+      "size": 607,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/357277c4cb99baf105da7fb92911372d60f392e1"
+    },
+    {
+      "path": "public",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "917453d9765b70d4fc5dd778b79828ecf3ecc520",
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/trees/917453d9765b70d4fc5dd778b79828ecf3ecc520"
+    },
+    {
+      "path": "public/android-chrome-192x192.png",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5f9913ac0edf124b84e8b1072a91b02005444b95",
+      "size": 6484,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/5f9913ac0edf124b84e8b1072a91b02005444b95"
+    },
+    {
+      "path": "public/android-chrome-512x512.png",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b6db393fba64f0b22ec9562f4a828b245e7d1f6d",
+      "size": 17341,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/b6db393fba64f0b22ec9562f4a828b245e7d1f6d"
+    },
+    {
+      "path": "public/apple-touch-icon.png",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "94f256c0b82a04ce30da3ee6e44f8422269fb2e8",
+      "size": 5507,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/94f256c0b82a04ce30da3ee6e44f8422269fb2e8"
+    },
+    {
+      "path": "public/browserconfig.xml",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d63ed839fe54eaa0767675af27e7b148a17e2121",
+      "size": 246,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/d63ed839fe54eaa0767675af27e7b148a17e2121"
+    },
+    {
+      "path": "public/dist",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4a384ebf352cf85aa431c8c4b2acac1b1f6c4fa1",
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/trees/4a384ebf352cf85aa431c8c4b2acac1b1f6c4fa1"
+    },
+    {
+      "path": "public/dist/master.min.css",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3536ce74044e5c089ba378d2fc2610acbca4d3e6",
+      "size": 20066,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/3536ce74044e5c089ba378d2fc2610acbca4d3e6"
+    },
+    {
+      "path": "public/dist/master.min.css.map",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4f2678e0c9aa13c4af37480eacc424fd9612f49a",
+      "size": 28163,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/4f2678e0c9aa13c4af37480eacc424fd9612f49a"
+    },
+    {
+      "path": "public/favicon-16x16.png",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c843945b7afdfbef359deda8d200dad123799be6",
+      "size": 812,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/c843945b7afdfbef359deda8d200dad123799be6"
+    },
+    {
+      "path": "public/favicon-32x32.png",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8a1c2e2ce7e70ebd3f68b9a2fbea8651814674bd",
+      "size": 1225,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/8a1c2e2ce7e70ebd3f68b9a2fbea8651814674bd"
+    },
+    {
+      "path": "public/favicon.ico",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e54b26a46157a95c6455bb8957396f8dad4a08a0",
+      "size": 7406,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/e54b26a46157a95c6455bb8957396f8dad4a08a0"
+    },
+    {
+      "path": "public/fonts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f998a23949049714ea2afb06b6d350b2299dbe84",
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/trees/f998a23949049714ea2afb06b6d350b2299dbe84"
+    },
+    {
+      "path": "public/fonts/DubaiW23-Bold.eot",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "19c237b8dff2a4257e3c1dac165e086f9e8373a8",
+      "size": 75618,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/19c237b8dff2a4257e3c1dac165e086f9e8373a8"
+    },
+    {
+      "path": "public/fonts/DubaiW23-Bold.ttf",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "107dd26f91eb0c7a3e279e8dec12fb2fb13d5f9c",
+      "size": 174064,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/107dd26f91eb0c7a3e279e8dec12fb2fb13d5f9c"
+    },
+    {
+      "path": "public/fonts/DubaiW23-Bold.woff",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "394e9d19615c747261da576a1e304ef5455b4110",
+      "size": 84256,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/394e9d19615c747261da576a1e304ef5455b4110"
+    },
+    {
+      "path": "public/fonts/DubaiW23-Bold.woff2",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5a036a93e5e241fdccc5234a2258ebb7f0291293",
+      "size": 64440,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/5a036a93e5e241fdccc5234a2258ebb7f0291293"
+    },
+    {
+      "path": "public/fonts/DubaiW23-Light.eot",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "cadaf1709e723c6b3ee18d1dafeeffb82c0ae894",
+      "size": 73979,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/cadaf1709e723c6b3ee18d1dafeeffb82c0ae894"
+    },
+    {
+      "path": "public/fonts/DubaiW23-Light.ttf",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c564ac674ad12d7228f1b466109d93081f595bb4",
+      "size": 174644,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/c564ac674ad12d7228f1b466109d93081f595bb4"
+    },
+    {
+      "path": "public/fonts/DubaiW23-Light.woff",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "dd52731e39e7a96adf1abbd5cb8c1c51987b948d",
+      "size": 82832,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/dd52731e39e7a96adf1abbd5cb8c1c51987b948d"
+    },
+    {
+      "path": "public/fonts/DubaiW23-Light.woff2",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0affb76519332bec0ed84a8381faff255b68e6e6",
+      "size": 63020,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/0affb76519332bec0ed84a8381faff255b68e6e6"
+    },
+    {
+      "path": "public/fonts/DubaiW23-Medium.eot",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "627bfc0a9a23e62a2d197f49d084799f066f7a1a",
+      "size": 75006,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/627bfc0a9a23e62a2d197f49d084799f066f7a1a"
+    },
+    {
+      "path": "public/fonts/DubaiW23-Medium.ttf",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7e65f717c3e570ff20422c54411ffae5814af514",
+      "size": 174380,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/7e65f717c3e570ff20422c54411ffae5814af514"
+    },
+    {
+      "path": "public/fonts/DubaiW23-Medium.woff",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "bb9f4e29c0ec944dcbe1fb13b36b476551a70d60",
+      "size": 83748,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/bb9f4e29c0ec944dcbe1fb13b36b476551a70d60"
+    },
+    {
+      "path": "public/fonts/DubaiW23-Medium.woff2",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2bb1a8a4194e9945308419b7078d051ad05ea61a",
+      "size": 63880,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/2bb1a8a4194e9945308419b7078d051ad05ea61a"
+    },
+    {
+      "path": "public/fonts/DubaiW23-Regular.eot",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "bb1cb1d791d0b553534a43c7d5a7e3f663f0bec3",
+      "size": 74819,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/bb1cb1d791d0b553534a43c7d5a7e3f663f0bec3"
+    },
+    {
+      "path": "public/fonts/DubaiW23-Regular.ttf",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "aec9bd081761490cc7218d54a67d6209dd97e5d2",
+      "size": 176340,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/aec9bd081761490cc7218d54a67d6209dd97e5d2"
+    },
+    {
+      "path": "public/fonts/DubaiW23-Regular.woff",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3780be90f89c83ad0aed8768989fed92862eba27",
+      "size": 83764,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/3780be90f89c83ad0aed8768989fed92862eba27"
+    },
+    {
+      "path": "public/fonts/DubaiW23-Regular.woff2",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7e1b36c185ee297d2332ab1ed251eabc6de7dbbe",
+      "size": 64056,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/7e1b36c185ee297d2332ab1ed251eabc6de7dbbe"
+    },
+    {
+      "path": "public/fonts/Sahel-VF.woff2",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "366eb6fe4b7419807a05c2067b6685666989bc91",
+      "size": 40396,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/366eb6fe4b7419807a05c2067b6685666989bc91"
+    },
+    {
+      "path": "public/fonts/dana-bold.woff",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "cf35be5fd548c9deec414a93f566d0711f283255",
+      "size": 32928,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/cf35be5fd548c9deec414a93f566d0711f283255"
+    },
+    {
+      "path": "public/fonts/dana-regular.woff",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4303132029d340fbcbb7bdf29af577a1f579de82",
+      "size": 32296,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/4303132029d340fbcbb7bdf29af577a1f579de82"
+    },
+    {
+      "path": "public/fonts/dana2webGX.woff",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "bbf08704ddfc8d8eb93bee745a030b99b91685b2",
+      "size": 73912,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/bbf08704ddfc8d8eb93bee745a030b99b91685b2"
+    },
+    {
+      "path": "public/icons",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b4f9eb149b5abd18cc45e13ef290988d497374c0",
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/trees/b4f9eb149b5abd18cc45e13ef290988d497374c0"
+    },
+    {
+      "path": "public/icons/bag.svg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "eaa39e815d9c4e519859523b0f010e7150b0a92b",
+      "size": 372,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/eaa39e815d9c4e519859523b0f010e7150b0a92b"
+    },
+    {
+      "path": "public/icons/book.svg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "123ba0f3bad5665b6508f4b49c06f1130f3d5518",
+      "size": 337,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/123ba0f3bad5665b6508f4b49c06f1130f3d5518"
+    },
+    {
+      "path": "public/icons/box.svg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d89be30f5754207a1eb117d87e97bfa41950e02e",
+      "size": 462,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/d89be30f5754207a1eb117d87e97bfa41950e02e"
+    },
+    {
+      "path": "public/icons/coffee.svg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "24254ee4ddcf8442b60ad5ebbe4424b5f6c34a48",
+      "size": 442,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/24254ee4ddcf8442b60ad5ebbe4424b5f6c34a48"
+    },
+    {
+      "path": "public/icons/github.svg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8f3c7db14239d93fb12a40bc6583bf6207236b4e",
+      "size": 519,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/8f3c7db14239d93fb12a40bc6583bf6207236b4e"
+    },
+    {
+      "path": "public/icons/intro.svg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5c57dfd0d8b73c2b96c131285c75bdaf49d14d14",
+      "size": 47037,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/5c57dfd0d8b73c2b96c131285c75bdaf49d14d14"
+    },
+    {
+      "path": "public/icons/logo.png",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a2edb9c762c78acfdd7ed549bff5c6a438bbf49e",
+      "size": 14998,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/a2edb9c762c78acfdd7ed549bff5c6a438bbf49e"
+    },
+    {
+      "path": "public/icons/logo2.png",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f9a87d4139c5ff48dfafb21f123ad01f756aec73",
+      "size": 18703,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/f9a87d4139c5ff48dfafb21f123ad01f756aec73"
+    },
+    {
+      "path": "public/icons/shopping-bag.svg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "65d7b450955f57260ed2e96dcbca2cf0e6428a1a",
+      "size": 1137,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/65d7b450955f57260ed2e96dcbca2cf0e6428a1a"
+    },
+    {
+      "path": "public/icons/user.svg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7bb5f2911d5dc0e7594c09d640db2fb632313afe",
+      "size": 313,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/7bb5f2911d5dc0e7594c09d640db2fb632313afe"
+    },
+    {
+      "path": "public/icons/zap.svg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8fdafa934f9dabffa32765f1d1c676b1d28bc6db",
+      "size": 282,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/8fdafa934f9dabffa32765f1d1c676b1d28bc6db"
+    },
+    {
+      "path": "public/img",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e06f92e74b213ed463687519460379bfd87c12ef",
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/trees/e06f92e74b213ed463687519460379bfd87c12ef"
+    },
+    {
+      "path": "public/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "dfa1d549126a561060be1c9f9812adf837af0f70",
+      "size": 15040,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/dfa1d549126a561060be1c9f9812adf837af0f70"
+    },
+    {
+      "path": "public/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d3fddf82bc909a1caf00b090655ab2a16cc6280f",
+      "size": 31212,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/d3fddf82bc909a1caf00b090655ab2a16cc6280f"
+    },
+    {
+      "path": "public/img/51eg55uWmdL._AC_UX679_.jpg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0097a25ebad4784d69b98bbc793cd441a72ee30f",
+      "size": 21957,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/0097a25ebad4784d69b98bbc793cd441a72ee30f"
+    },
+    {
+      "path": "public/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d72ccf3d62c27d4812d323655830c5f491041755",
+      "size": 18476,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/d72ccf3d62c27d4812d323655830c5f491041755"
+    },
+    {
+      "path": "public/img/61U7T1koQqL._AC_SX679_.jpg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "50c8f92d1c6a9fe24f69bab35109a85c2f44111f",
+      "size": 22165,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/50c8f92d1c6a9fe24f69bab35109a85c2f44111f"
+    },
+    {
+      "path": "public/img/61mtL65D4cL._AC_SX679_.jpg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "660b46af90aa8969b4e4b11266f3ed1638e27de4",
+      "size": 62480,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/660b46af90aa8969b4e4b11266f3ed1638e27de4"
+    },
+    {
+      "path": "public/img/61pHAEJ4NML._AC_UX679_.jpg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "870fb5b7ea4dc6d9d38d0d97cbf9ec0b279840f3",
+      "size": 57113,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/870fb5b7ea4dc6d9d38d0d97cbf9ec0b279840f3"
+    },
+    {
+      "path": "public/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a60fb0c5da51232b5aefe1a64eb8412a88e2a788",
+      "size": 22530,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/a60fb0c5da51232b5aefe1a64eb8412a88e2a788"
+    },
+    {
+      "path": "public/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e603805ba198da8e5a27f719cab5c4dcb3b936b8",
+      "size": 51003,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/e603805ba198da8e5a27f719cab5c4dcb3b936b8"
+    },
+    {
+      "path": "public/img/71HblAHs5xL._AC_UY879_-2.jpg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "58f1ac7b36fe874976cf7a02ce46feb4633477c6",
+      "size": 48244,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/58f1ac7b36fe874976cf7a02ce46feb4633477c6"
+    },
+    {
+      "path": "public/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "23110c09b8827be5d4f6e728fde11cd20e2a370d",
+      "size": 51941,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/23110c09b8827be5d4f6e728fde11cd20e2a370d"
+    },
+    {
+      "path": "public/img/71YXzeOuslL._AC_UY879_.jpg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e4df019c2ae9f52bed75e3cbc295125f086af57d",
+      "size": 60464,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/e4df019c2ae9f52bed75e3cbc295125f086af57d"
+    },
+    {
+      "path": "public/img/71kWymZ+c+L._AC_SX679_.jpg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3b3f61bc45e36bc5c9c04c959a26d31ddb5d268b",
+      "size": 34761,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/3b3f61bc45e36bc5c9c04c959a26d31ddb5d268b"
+    },
+    {
+      "path": "public/img/71li-ujtlUL._AC_UX679_.jpg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "605ea62ae42b5a2d174341089beb3555bd36d815",
+      "size": 52582,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/605ea62ae42b5a2d174341089beb3555bd36d815"
+    },
+    {
+      "path": "public/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "fc7252f26d5879adc820c21b4253b7c91084746e",
+      "size": 33846,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/fc7252f26d5879adc820c21b4253b7c91084746e"
+    },
+    {
+      "path": "public/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "90be9b338552d5af1ee3f70e5e6b7f5105ecb929",
+      "size": 25734,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/90be9b338552d5af1ee3f70e5e6b7f5105ecb929"
+    },
+    {
+      "path": "public/img/81QpkIctqPL._AC_SX679_.jpg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b583ab3e4eccfc7e9b1c9b2ae9298753a9f32e41",
+      "size": 80384,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/b583ab3e4eccfc7e9b1c9b2ae9298753a9f32e41"
+    },
+    {
+      "path": "public/img/81XH0e8fefL._AC_UY879_.jpg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "476d1729f2700bb68de7546c8bf36d6b77c99adc",
+      "size": 56044,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/476d1729f2700bb68de7546c8bf36d6b77c99adc"
+    },
+    {
+      "path": "public/img/81Zt42ioCgL._AC_SX679_.jpg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2eb8990ca4cee31c3a9dd2ba22d04d3473374dc7",
+      "size": 26759,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/2eb8990ca4cee31c3a9dd2ba22d04d3473374dc7"
+    },
+    {
+      "path": "public/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2e00046d8409b021bf4dbc5662bb5c9223f3065a",
+      "size": 230642,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/2e00046d8409b021bf4dbc5662bb5c9223f3065a"
+    },
+    {
+      "path": "public/js",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "944c8f9f469cf643e53dd96074039eff2b95335c",
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/trees/944c8f9f469cf643e53dd96074039eff2b95335c"
+    },
+    {
+      "path": "public/js/polyfill.min.js",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0170c772f7691ba8eba650008a6ab6b93611d003",
+      "size": 3968,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/0170c772f7691ba8eba650008a6ab6b93611d003"
+    },
+    {
+      "path": "public/mstile-150x150.png",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c3fe62fb65652b8e9ab86b6c2b3bbb236a93f4d1",
+      "size": 5009,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/c3fe62fb65652b8e9ab86b6c2b3bbb236a93f4d1"
+    },
+    {
+      "path": "public/safari-pinned-tab.svg",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d32585fdfba1472f76a8cb50de6d2c1ffc3bccfe",
+      "size": 2536,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/d32585fdfba1472f76a8cb50de6d2c1ffc3bccfe"
+    },
+    {
+      "path": "public/scss",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9da4449a617b4ad8b808f7d7d66ed6c29c936666",
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/trees/9da4449a617b4ad8b808f7d7d66ed6c29c936666"
+    },
+    {
+      "path": "public/scss/_badge.scss",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "40a6b37f945fa1a9a39fba219100511b7f659e0c",
+      "size": 115,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/40a6b37f945fa1a9a39fba219100511b7f659e0c"
+    },
+    {
+      "path": "public/scss/_buttons.scss",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7ee5f1ef31025e0b9aaf921cfa303f6814540ba0",
+      "size": 2871,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/7ee5f1ef31025e0b9aaf921cfa303f6814540ba0"
+    },
+    {
+      "path": "public/scss/_code.scss",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ed8b61d54ddb797cc342d33595134a8fb8605337",
+      "size": 771,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/ed8b61d54ddb797cc342d33595134a8fb8605337"
+    },
+    {
+      "path": "public/scss/_colors.scss",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a8951ed6de95d92149882185af7018cf8be3e68f",
+      "size": 870,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/a8951ed6de95d92149882185af7018cf8be3e68f"
+    },
+    {
+      "path": "public/scss/_custom.scss",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0f6995725ec005a8e0018635615c6d838dd59285",
+      "size": 3468,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/0f6995725ec005a8e0018635615c6d838dd59285"
+    },
+    {
+      "path": "public/scss/_filters.scss",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5087ba476c7e6f468bb14e9a72db23efedd6472b",
+      "size": 296,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/5087ba476c7e6f468bb14e9a72db23efedd6472b"
+    },
+    {
+      "path": "public/scss/_fonts.scss",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8b14c3d86c67f586fd95395c3e014c06bacb726e",
+      "size": 438,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/8b14c3d86c67f586fd95395c3e014c06bacb726e"
+    },
+    {
+      "path": "public/scss/_form.scss",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "197677a8a7b27c9981be6741dd77ea370457ea46",
+      "size": 1397,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/197677a8a7b27c9981be6741dd77ea370457ea46"
+    },
+    {
+      "path": "public/scss/_general.scss",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d230fb813dd1e6c6de3c5bd20e2888159fb70a0c",
+      "size": 4051,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/d230fb813dd1e6c6de3c5bd20e2888159fb70a0c"
+    },
+    {
+      "path": "public/scss/_grids.scss",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f9438c499a2f54508666b0be4be7cbe64c214562",
+      "size": 1710,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/f9438c499a2f54508666b0be4be7cbe64c214562"
+    },
+    {
+      "path": "public/scss/_modal.scss",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f6a3d7b3028172296c7c8c82aec8158918dccce7",
+      "size": 663,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/f6a3d7b3028172296c7c8c82aec8158918dccce7"
+    },
+    {
+      "path": "public/scss/_nav.scss",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c5edee7acdc0986a32c9fc9c7ae18e365f39c3b2",
+      "size": 1957,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/c5edee7acdc0986a32c9fc9c7ae18e365f39c3b2"
+    },
+    {
+      "path": "public/scss/_reset.scss",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6587b13ac674dec6123ffb86c58c1319a7932c4f",
+      "size": 1652,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/6587b13ac674dec6123ffb86c58c1319a7932c4f"
+    },
+    {
+      "path": "public/scss/_table.scss",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3f14558a1f956a0a06a6b8aef121f542f5c84453",
+      "size": 235,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/3f14558a1f956a0a06a6b8aef121f542f5c84453"
+    },
+    {
+      "path": "public/scss/_typo.scss",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "403acbb109f6da85cdfd89c2a9e91886f7595b8b",
+      "size": 807,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/403acbb109f6da85cdfd89c2a9e91886f7595b8b"
+    },
+    {
+      "path": "public/scss/_variables.scss",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "608b527dd9937d5d61dc07c065611bc55c62ee44",
+      "size": 467,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/608b527dd9937d5d61dc07c065611bc55c62ee44"
+    },
+    {
+      "path": "public/scss/master.scss",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2bb97b76272415ffe5afd7d60bdafbacc68c845f",
+      "size": 293,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/2bb97b76272415ffe5afd7d60bdafbacc68c845f"
+    },
+    {
+      "path": "public/site.webmanifest",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1843c8e9f2fe9cbad190447ce84d90e548663456",
+      "size": 446,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/1843c8e9f2fe9cbad190447ce84d90e548663456"
+    },
+    {
+      "path": "routes",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "08b3ce996b96471a429848c2e981f3b5431b4c71",
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/trees/08b3ce996b96471a429848c2e981f3b5431b4c71"
+    },
+    {
+      "path": "routes/auth.js",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "37419c9ca9f94a479bae0c502d1ed7941505a35b",
+      "size": 175,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/37419c9ca9f94a479bae0c502d1ed7941505a35b"
+    },
+    {
+      "path": "routes/cart.js",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d81c5ab8a0c4a713c3528f1c322eb5f5dfe78fa5",
+      "size": 432,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/d81c5ab8a0c4a713c3528f1c322eb5f5dfe78fa5"
+    },
+    {
+      "path": "routes/home.js",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "85057e7201619fed019b920bdcfce7e9b890dde7",
+      "size": 200,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/85057e7201619fed019b920bdcfce7e9b890dde7"
+    },
+    {
+      "path": "routes/product.js",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "77cdee7162f75be0d4d8b18720509834fc4d2d16",
+      "size": 518,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/77cdee7162f75be0d4d8b18720509834fc4d2d16"
+    },
+    {
+      "path": "routes/user.js",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5b25d98754944e8841a80035d5bf2b8f8102c3b7",
+      "size": 335,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/5b25d98754944e8841a80035d5bf2b8f8102c3b7"
+    },
+    {
+      "path": "server.js",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "38851370871ba548452bbdb2ede9263a9c06f2df",
+      "size": 1330,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/38851370871ba548452bbdb2ede9263a9c06f2df"
+    },
+    {
+      "path": "views",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "07f03920b1ee0273108c0a6e2e217cbe94110b7b",
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/trees/07f03920b1ee0273108c0a6e2e217cbe94110b7b"
+    },
+    {
+      "path": "views/home",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "30725b0d2bd177c401d8f1e4a7be5f6e50d3a8c2",
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/trees/30725b0d2bd177c401d8f1e4a7be5f6e50d3a8c2"
+    },
+    {
+      "path": "views/home/docs.ejs",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "da2c754dfec0cbb70adee09d7c708b95e03b9bce",
+      "size": 1947,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/da2c754dfec0cbb70adee09d7c708b95e03b9bce"
+    },
+    {
+      "path": "views/home/index.ejs",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "738140483ddd45fa2000f7d0a2a621d4c640bd79",
+      "size": 3514,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/738140483ddd45fa2000f7d0a2a621d4c640bd79"
+    },
+    {
+      "path": "views/shared",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d987df63eba6d2f657b85a319724edb80e03f0f4",
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/trees/d987df63eba6d2f657b85a319724edb80e03f0f4"
+    },
+    {
+      "path": "views/shared/aside.ejs",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c203e802bff6832f5a9eaef4d3434fe5159b7764",
+      "size": 1660,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/c203e802bff6832f5a9eaef4d3434fe5159b7764"
+    },
+    {
+      "path": "views/shared/authDocs.ejs",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "60111a26382e265c6f52738cd20f5205384a44c2",
+      "size": 1720,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/60111a26382e265c6f52738cd20f5205384a44c2"
+    },
+    {
+      "path": "views/shared/cartDocs.ejs",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "52f4a559454abac9b9dbc02b8e989bdae30a272b",
+      "size": 10616,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/52f4a559454abac9b9dbc02b8e989bdae30a272b"
+    },
+    {
+      "path": "views/shared/footer.ejs",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d34e41dd3525e903dcd07244f1be5885adc2d774",
+      "size": 1629,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/d34e41dd3525e903dcd07244f1be5885adc2d774"
+    },
+    {
+      "path": "views/shared/header.ejs",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d03d95f88e038bcb89076b8a2b3c991b86f02d52",
+      "size": 3034,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/d03d95f88e038bcb89076b8a2b3c991b86f02d52"
+    },
+    {
+      "path": "views/shared/productDocs.ejs",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4d3605ca021ef71a2067340ae0fdbe7f11247df1",
+      "size": 11752,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/4d3605ca021ef71a2067340ae0fdbe7f11247df1"
+    },
+    {
+      "path": "views/shared/userDocs.ejs",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d5544d284907404315cdf057fa5f93742944e915",
+      "size": 14672,
+      "url": "https://api.github.com/repos/keikaavousi/fake-store-api/git/blobs/d5544d284907404315cdf057fa5f93742944e915"
+    }
+  ],
+  "truncated": false
+}
